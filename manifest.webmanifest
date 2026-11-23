@@ -1,0 +1,9 @@
+{
+  "name": "KaryaGrid Work Management",
+  "short_name": "KaryaGrid",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0b1220",
+  "theme_color": "#101827",
+  "description": "A simple work request and task tracking prototype for workshops and factories."
+}
